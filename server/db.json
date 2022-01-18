@@ -1,7 +1,19 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" },
-      { "id": 2, "title": "2-json-server", "author": "2typicode" },
-      { "id": 3, "title": "3-json-server", "author": "3typicode" }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "2-json-server",
+      "author": "2typicode"
+    },
+    {
+      "id": 3,
+      "title": "3-json-server",
+      "author": "3typicode"
+    }
+  ]
 }
