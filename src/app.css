@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    max-width: 500px;
+    margin: 20px;
+}
+
+.btn_add {
+    color:blueviolet;
+}
+.list {
+    color: rgb(52, 70, 70);
+}
+.completed {
+    color: cornflowerblue;
+}
